@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Sebastian",
+      "edad": "37",
+      "ocupacion": "Programador"
+    },
+    {
+      "id": 2,
+      "nombre": "Erica",
+      "ocupacion": "Desarrolladora",
+      "edad": 29
+    },
+    {
+      "id": 3,
+      "nombre": "Christian",
+      "ocupacion": "Administrativo",
+      "edad": 37
+    },
+    {
+      "nombre": "Alejandra",
+      "edad": "46",
+      "ocupacion": "Programadora",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Juan",
+      "edad": "25",
+      "ocupacion": "Publicista"
+    },
+    {
+      "nombre": "Esteban",
+      "edad": "56",
+      "ocupacion": "Contador",
+      "id": 6
+    }
+  ]
+}
