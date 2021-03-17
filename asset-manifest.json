@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Usuarios-crud-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Usuarios-crud-react/static/js/main.1a1dba3d.chunk.js",
+    "main.js.map": "/Usuarios-crud-react/static/js/main.1a1dba3d.chunk.js.map",
+    "runtime-main.js": "/Usuarios-crud-react/static/js/runtime-main.3057cade.js",
+    "runtime-main.js.map": "/Usuarios-crud-react/static/js/runtime-main.3057cade.js.map",
+    "static/css/2.95f25948.chunk.css": "/Usuarios-crud-react/static/css/2.95f25948.chunk.css",
+    "static/js/2.75e1a44d.chunk.js": "/Usuarios-crud-react/static/js/2.75e1a44d.chunk.js",
+    "static/js/2.75e1a44d.chunk.js.map": "/Usuarios-crud-react/static/js/2.75e1a44d.chunk.js.map",
+    "static/js/3.4b05e62c.chunk.js": "/Usuarios-crud-react/static/js/3.4b05e62c.chunk.js",
+    "static/js/3.4b05e62c.chunk.js.map": "/Usuarios-crud-react/static/js/3.4b05e62c.chunk.js.map",
+    "index.html": "/Usuarios-crud-react/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/Usuarios-crud-react/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Usuarios-crud-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.75e1a44d.chunk.js.LICENSE.txt": "/Usuarios-crud-react/static/js/2.75e1a44d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3057cade.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.75e1a44d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1a1dba3d.chunk.js"
+  ]
+}
